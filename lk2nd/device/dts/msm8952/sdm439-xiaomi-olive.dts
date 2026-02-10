@@ -18,7 +18,7 @@
 	compatible = "qcom,sdm439", "xiaomi,olive";
 	lk2nd,dtb-files = "sdm439-xiaomi-olive";
 
-  regulator-l11 {
+	regulator-l11 {
 		compatible = "regulator-ldo";
 		id = <REG_LDO11>;
 	};
